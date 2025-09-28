@@ -1,4 +1,4 @@
 # tesla_gme_revenue
-Análise de receita da Tesla e da Game Stop
+Tesla and Game Stop Revenue Analysis
 
-Esse código tem o intuito de descrever o histórico do valor das ações da Tesla e da Game Stop de 2006 a 2021
+This ticker symbol describes the historical stock price of Tesla and Game Stop from 2006 to 2021.
